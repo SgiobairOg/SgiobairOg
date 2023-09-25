@@ -7,3 +7,5 @@
 - :transgender_flag: Whois: If you see repos and commits attributed to Jason Wilson, that's also me.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If you need someone who can code, drive ships, and operate a sonar... I'm your woman.
+
+You can ignore this (or not, I'm a dev not a cop), just want to see if [pages can be linked in this special repo](/test.md).
