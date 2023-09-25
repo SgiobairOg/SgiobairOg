@@ -9,4 +9,4 @@ I served a number of years on ships at sea. I became very acquainted with situat
 
 Thank you for reading.
 
-[Return to my profile](https;//github.com/SgiobairOg) | [Read UNESCO's Ethics of AI](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
+[Return to my profile](https://github.com/SgiobairOg) | [Read UNESCO's Ethics of AI](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
